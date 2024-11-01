@@ -29,16 +29,18 @@ To set up the project locally, follow these steps:
    ```bash
    git clone https://github.com/jayanandh13/Blogger.git
    
+   
 2. Navigate to the project directory:
-bash
+```bash
 cd Blogger
 
+
 3. Install the required dependencies:
-bash
+```bash
 npm install
 
+
 4. Create a .env.local file in the root of the project and add your MongoDB connection string:
-env
 MONGODB_URI=your_mongodb_connection_string
 
 5. Start the development server:
