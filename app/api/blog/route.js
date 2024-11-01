@@ -66,7 +66,7 @@ export async function POST(request) {
       category: formData.get('category') || '',
       author: formData.get('author') || '',
       image: imgUrl,
-      authorImg: formData.get('author_img') || '',
+      authorImg: formData.get('authorImg') || '/default_author_image.png',
       createdAt: new Date(), 
     };
 
