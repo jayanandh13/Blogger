@@ -47,8 +47,8 @@ To set up the project locally, follow these steps:
 
 
  ## Usage
-Creating a Blog: Fill in the form with the title, description, category, and image, then click "Add" to create a new blog post.
+- **Creating a Blog: Fill in the form with the title, description, category, and image, then click "Add" to create a new blog post.
 
-Viewing Blogs: All blog posts are displayed on the homepage. Click on any blog to view its details.
+- **Viewing Blogs: All blog posts are displayed on the homepage. Click on any blog to view its details.
 
-Editing and Deleting Blogs: Navigate to the specific blog to edit or delete it.
+- **Editing and Deleting Blogs: Navigate to the specific blog to edit or delete it.
