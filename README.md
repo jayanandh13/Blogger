@@ -35,7 +35,7 @@ To set up the project locally, follow these steps:
 
 3. Install Required Dependencies:
 
-  npm install
+   npm install
 
 4. Create a .env.local File:
 
@@ -43,7 +43,7 @@ To set up the project locally, follow these steps:
 
 5. Start the Development Server:
 
-  npm run dev
+   npm run dev
 
 
  ## Usage
