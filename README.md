@@ -28,10 +28,26 @@ To set up the project locally, follow these steps:
 
    ```bash
    git clone https://github.com/jayanandh13/Blogger.git
+   
+2. Navigate to the project directory:
+bash
+cd Blogger
 
-## Acknowledgements
-Next.js
-MongoDB
-Mongoose
-Axios
-React Toastify
+3. Install the required dependencies:
+bash
+npm install
+
+4. Create a .env.local file in the root of the project and add your MongoDB connection string:
+env
+MONGODB_URI=your_mongodb_connection_string
+
+5. Start the development server:
+bash
+npm run dev
+
+ ## Usage
+Creating a Blog: Fill in the form with the title, description, category, and image, then click "Add" to create a new blog post.
+
+Viewing Blogs: All blog posts are displayed on the homepage. Click on any blog to view its details.
+
+Editing and Deleting Blogs: Navigate to the specific blog to edit or delete it.
