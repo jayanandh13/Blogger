@@ -70,7 +70,6 @@ const Page = () => {
         
 
       if (response.data.success) {
-        toast.success("Blog added successfully!");
         setData({ title: "", description: "", category: "Startup", author: "Alex", authorImg: "/author_img.png" });
         setImage(null);
         setImagePreview(null);
