@@ -39,7 +39,7 @@ To set up the project locally, follow these steps:
 
 4. Create a .env.local File:
 
-  MONGODB_URI=your_mongodb_connection_string
+   MONGODB_URI=your_mongodb_connection_string
 
 5. Start the Development Server:
 
